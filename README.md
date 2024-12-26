@@ -65,7 +65,7 @@
   <a href="https://velog.io/@Dangi90">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a> -->
-  <a href="woo24465@gmail.com">
+  <a href="soc23231@gmail.com">
     <img
       src="https://img.shields.io/badge/woo24465@gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
   </a>
