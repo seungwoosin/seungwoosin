@@ -67,7 +67,7 @@
   </a> -->
   <a href="soc23231@gmail.com">
     <img
-      src="https://img.shields.io/badge/woo24465@gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/soc23231@gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
   </a>
 <!--   <a href="https://blog.naver.com/j_nary">
     <img
